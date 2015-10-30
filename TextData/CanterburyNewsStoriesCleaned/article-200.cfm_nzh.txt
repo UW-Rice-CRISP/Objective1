@@ -1,0 +1,109 @@
+Standing on the corner of Durham and Victoria Streets in Christchurch's red zone cordon, the ground speaks through the soles of our feet. The shudder is not an aftershock, but caused by one of the two demolition diggers behind us repeatedly dropping a colossal stone, dealing to the last remnants of the Copthorne Hotel.
+
+Every thud ripples outwards, making the surrounding soil - we're 30m away - wobble like jelly.
+
+"It's a bit disturbing the way the ground does that," says Warwick Isaacs, casually. It is indeed. This is what you get with the unsettled, deep alluvial soils deposited over centuries here and all around Christchurch's central business district by rivers flowing eastwards from the Southern Alps.
+
+This is lesson one: what lies beneath - variable layers of gravels, sands, silts, peat and their mixtures - moves as though it's alive. Hence the earthquake mayhem of liquefaction - sands, silts and water erupting at the surface - and lateral spreading, where the ground slides sideways.
+
+Rebuilding on such sloppy, sliding soil won't be easy. As the Canterbury Earthquakes Royal Commission says in its Interim Report the consequences include "adverse effects on the performance of foundations". But such consequences for rebuilding, not to mention whether anyone will be able to get insurance, lie mostly in the future. For now the reality is demolition - lots of it, everywhere.
+
+The Copthorne, deemed dangerous by the Canterbury Earthquake Recovery Authority (Cera), has taken six months to pull down. "It had foundation issues and column collapse inside the building as well as panel damage on the outside," says Isaacs, Cera's general manager of operations.
+
+Isaacs points out demolitions in the vicinity: Riverland House, a nine-storey apartment block less than a decade old; the Environment Canterbury office block, Contours Gym and a couple of other buildings beside it in Victoria St. Plus the Crowne Plaza Hotel, which is also unsafe with significant structural damage and will be demolished by June, by when there will be little left standing over the entire block. The city is a place where the gaps, empty lots on corners, along streets - signals of absence everywhere - seem more prominent than the buildings.
+
+In the 71ha of the reduced CBD cordon, Isaacs expects 50 per cent of the buildings will be demolished. In the former red zone bounded by Moorhouse, Bealey, Fitzgerald and Deans avenues, covering 150ha, there are 2800 buildings, including houses, of which Isaacs expects 900-1000 to be demolished. That's a lot of demolition. Is it true, as some engineers have suggested that when it's all over there'll be just six or seven towers left standing in the CBD?
+
+"I would probably put it at 10-15," says Isaacs. But it's very low numbers. A lot of that is not necessarily because they are dangerous; it's more around the economics of the repair." There are also 50-60 "largish buildings" he says, including the Forsyth Barr tower, which had its stairs collapse, and the Town Hall which has suffered lateral spreading, where no decision has been made about whether to repair or demolish.
+
+Lesson two: Most of Christchurch's "modern" buildings may have survived the earthquakes without loss of life, but most of them are munted. Which begs the question: is this really good enough?
+
+"Modern" in engineering terms tends to mean post-1982. Although modern loadings standards for earthquakes began in 1976 and have subsequently been updated, the watershed year for engineering in New Zealand was 1982. That's when a new concrete standard came into play emphasising ductility and capacity design, which was considered the revolutionary step forward in designing concrete buildings to be earthquake-resilient. At that time, all multi-storey non-industrial
+
+buildings were concrete-framed.
+
+The philosophy was to design for controlled damage in a severe earthquake. "Severe" in the New Zealand code for a typical multi-storey building means a one-in-500-year event. But the code also expects engineers to build in added safety margins, which in effect means buildings designed properly to code will survive a one-in-2500-year event. Which is, more or less, what the February 22 earthquake was.
+
+Engineers will proudly point out that, on the whole, modern buildings performed exactly as expected - suffering damage but remaining standing and protecting the occupants. They'll also be quick to point out that the buildings remained standing under intensities of shaking that were significantly higher than the design codes allowed for. Bravo. But what wasn't expected was that the majority of buildings would be beyond repair.
+
+"The threshold for 'repair or replace' has turned out to be lower than expected for reinforced concrete buildings," says Auckland University associate professor of Civil Engineering, Charles Clifton. "Going forward, we need to concentrate on designing and constructing buildings with a much higher damage threshold."
+
+The 12-storey HSBC Club Tower in Worcester St, which was reoccupied in July and the 23-storey Pacific Tower in Gloucester St, which suffered some damage but is able to be repaired, provide some useful lessons. Both are steel structures. Clifton says this provides some advantage over concrete due to its different elastic threshold.
+
+Another bonus was the extra strength and stiffness of the composite floor systems - concrete poured on site on to steel decking, supported on a network of steel beams - enabling the buildings to return to their pre-earthquake position at the end of the shaking.
+
+The two buildings highlight what's fundamentally wrong with New Zealand design practices, says engineer John Scarry. He got offside with the profession with his 2002 "Open Letter" exposing what he claimed were "widespread appalling standards of design and construction" in New Zealand. "The 'perceived wisdom' for decades has been to have 'flexible' moment frame buildings, because they flop around and do not attract a lot of seismic load," he says. "But the Pacific Tower and the Club Tower, which performed very well, were largely braced frames - that is, they were 'stiff' and the structural steel is ductile."
+
+Scarry says the best seismic-resistant buildings are those that are very "stiff" but also "tough" and "ductile", so they don't succumb to brittle fracture in the way unreinforced masonry does. "In Japan for decades and now in California, good engineers are making their buildings as stiff as possible, to limit damage."
+
+One surprising failure mode, says Scarry, was the unexpected fracture of what should be ductile reinforcing bars. Instead of stretching as they should have, in the short, intense shaking of the February earthquake, the strength of the concrete limited the stretching length of the bars, causing them to break.
+
+The phenomenon was known about overseas in the 1980s, says Scarry, but has not been addressed here.
+
+With numerous types of failures of modern buildings in the CBD - including collapsed stair systems, failed shear walls and columns and floors that ruptured, Scarry says it's no wonder so many cannot be repaired.
+
+"You have to wonder what we achieved by the so-called modern design procedures."
+
+Moving along Cambridge Terrace beside the vast aching flatness of the cleared-away Pyne Gould Corporation building catastrophe, the road asphalt has crumpled downwards. "These sink holes weren't there after February," says Isaacs. "They just appeared." He points out the upheaval of the ground around the Pyne Gould garages next door - another building that must come down. "They talk about buildings pushed up in excess of a metre in this area," says Isaacs.
+
+Though the irreparable damage to so many modern buildings in Christchurch may be a surprise to many, here is a stark reminder of the truly shocking aspect of the February 22 earthquake. That two "modern" multi-storey office buildings - the Canterbury Television (CTV) and Pyne Gould Corporation (PGC) buildings - killed so many. The catastrophic pancake of floors of the CTV building killed 115 people and PGC's collapse killed 18. Collapsing unreinforced masonry buildings within or close to "the four avenues" cordon killed 42 people. Rock falls and other causes resulted in seven deaths.
+
+Lesson three: poorly designed reinforced concrete buildings will kill more than older unreinforced masonry (URM) buildings in an earthquake.
+
+San Francisco structural engineer Bill Holmes, an expert reviewer for the Royal Commission, has been trying to raise awareness about this hazard for some time.
+
+"These buildings exist everywhere. They are bigger than URMs. They hold more people than URMs," he says. "People in the United States have been saying the collapse of one concrete building will kill more people than all the URMs known in the history of California."
+
+Which raises another problem: How many other buildings like the PGC and CTV are there around New Zealand? "That is a very good question. We don't know the answer," says Clifton. "It's one of the key issues the Department of Building and Housing is trying to get an understanding on."
+
+Scarry is not so reticent: "There are hundreds, if not thousands, of PGC-type buildings from the 50s and 60s - and worse, because a lot of them don't even have shear walls."
+
+Many can be expected to suffer catastrophic failure in a major earthquake, he says - mainly due to weak columns with little confinement [stirrups or spiral bars] and none in the beam-column joints.
+
+Another key failing of both the CTV and PGC building is the way the floors were torn away from their earthquake resisting system - the shear core housing the liftwells and stairs - and then pancaked down. Though the PGC building was designed in 1963 before modern earthquake codes were in place, the CTV building was designed and constructed in 1986 - after the 1984 loadings code and the 1982 reinforced concrete standard were introduced.
+
+It's this lack of proper detailing to connect floors and walls so they are tied together as a diaphragm that Scarry maintains must be improved. Clifton agrees: "With diaphragm design, there aren't any national recommendations and it's really a disgrace on the profession that it hasn't developed a set of researched, peer-reviewed procedures."
+
+At St Teresa's church hall in Riccarton, the Royal Commission completes its hearings regarding the PGC failure in early December. What's heartbreaking is the diligence of the bereaved families listening intently day after day to the lawyers, engineers and witnesses sifting the debris of the disaster. Naturally, they want answers.
+
+The commissioners are Justice Mark Cooper, Sir Ron Carter and engineer Richard Fenwick. Scarry is critical of the commission's lack of independence - that two of its members are from the industry under examination. Although now retired, Sir Ron's company Beca, aka Beca Carter Hollings and Ferner, is deeply involved in building and engineering design in New Zealand. Fenwick is a leading light in New Zealand's engineering profession. As Scarry sees it, both are sitting in judgment, at least in part, on themselves. "Compare this with the Royal Commission into the Pike River disaster. There is no person from the New Zealand mining industry on that commission."
+
+At times during the proceedings, it does seem as though the engineering profession is getting an easy ride. The experts called are all careful to make no criticism of engineering firm Holmes Consulting, which carried out a seismic evaluation of the PGC building in 1997 and implemented modifications to the building's columns that it considered necessary for "life safety" in an earthquake.
+
+Nor do most of the experts think there was anything lacking in the "Level 2" assessments carried out on the building following the September earthquake, which allowed reoccupation of the building.
+
+"Beca say they make no criticism of the conclusion that Holmes reached in 1997," says counsel assisting the commission, Stephen Mills QC, in his opening statement. "They consider it reasonable in the state of knowledge at that time. It is only with hindsight and with the experience of what occurred in the February earthquake that this view now appears overly optimistic ..."
+
+What's odd about Beca's reticence is that it carried out detailed analysis of the PGC building with extensive computer modelling to show how it failed - highlighting a critical weaknesses of the building quite different to the Holmes analysis of 1997.
+
+"The Beca analyses indicated that the walls of the shear core were critical and the columns and hence floor failure would occur subsequently," expert reviewer professor Nigel Priestley told the commission. "The Holmes Consulting analyses indicated that the column failure would precede wall failure which was not seen as so critical."
+
+In hindsight, this was a fatal mistake. Had Holmes Consulting strengthened the shear core of the building - something it identified as a weakness but not a "life safety" issue - the building may not have collapsed in the way it did.
+
+Expert reviewer Bill Holmes noted also the poor connection of the girder beams meeting the shear core walls. "I have to say, if I was the engineer doing this I probably would have put some extra strength under those locations."
+
+He describes what might have happened had the beams been well connected with pilaster columns attached to the the wall. "Perhaps these girders would not have torn away from the tower and they would have formed some sort of a tepee kind of a shape and it would not have collapsed pancake-style."
+
+Priestley questions whether the condition of the PGC building after the September earthquake was really as good as indicated by Holmes Consulting's post-earthquake evaluations.
+
+"I am not so sure about that," he says, pointing out that crack widths in the shear core might have appeared small but given a false impression of safety because "gravity loads would close the cracks after shaking ceased". He's concerned too about spalling, or flaking, of the concrete surfaces in the shear wall - indicative he says of sliding on the cracks and maybe significant damage.
+
+Priestly also advocates a different procedure for the inspecting engineers for buildings like PGC. "It would not take too much to find out whether the age of the building was pre-1976," he says.
+
+"So older buildings in this case might not be given a green status until both visual inspection and a review of the critical structural weaknesses were carried out."
+
+Bill Holmes, however, points out a more fundamental problem: that the PGC building was never formally identified as earthquake-prone and even if it had been, nothing would have changed. As the Royal Commission heard at its previous hearings into unreinforced masonry building collapses, the Christchurch Council had an entirely passive earthquake-prone policy.
+
+"If the building had been classified as earthquake-prone, it would not have faced any deadline for its seismic performance to be improved," says Mills in his opening statement.
+
+Holmes says in order to ferret out PGC and CTV-type buildings so their tragedies are not repeated, local authorities will need to take a much more active role.
+
+"If a city does not have a policy that says you must fix buildings other than URMs that are lousy, then it is saying from a policy and legislative standpoint that it is acceptable to occupy those buildings that might be dangerous in an earthquake."
+
+See also: Canterbury Earthquake Recovery Authority demolition maps here.
+
+How the Pyne Gould Corporation building collapsed.
+
+
+
+- NZ Herald

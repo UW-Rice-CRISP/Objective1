@@ -1,0 +1,27 @@
+By Jarrod Booker
+
+As buildings disappear in earthquake-ravaged Christchurch, it is becoming difficult to remember the city as it was - or even to recognise where you are, in some places.
+
+However, a mobile phone application developed by a group at Canterbury University is ensuring pre-quake Christchurch is always at people's fingertips - and soon what the future may look like.
+
+CityViewAR is a free Augmented Reality (AR) app showing the city as it was before the devastating quakes began in September 2010.
+
+Using an Android mobile phone or iPhone, people can view various sites and see life-sized 3D virtual models of what the demolished buildings looked like, overlaid on a vision of what is there now.
+
+The app also features the option to view sites as they were about a week after the February 2011 quake, and within a couple of months it will allow viewing of models of proposed new designs at demolition sites.
+
+People not in Christchurch can see the content by using the application to send fake GPS data.
+
+"Following the earthquakes, many buildings in the inner city have been demolished to make way for reconstruction," said Professor Mark Billinghurst, director of the university's HIT Lab (the Human Interface Technology Laboratory).
+
+"Even for people who have lived in Christchurch all their lives it is difficult to walk through the city and remember what buildings used to be there."
+
+Photographs and written information about the buildings are also available to users.
+
+"The software was previously used for showing individual buildings, but this is the first time that it has been used to show dozens of buildings at once, and the first time in the world that mobile phone AR has been used for earthquake reconstruction," Professor Billinghurst said.
+
+Information for the app has been provided by a local architect, the Christchurch City Council and the Historic Places Trust. "Future work on the app will allow users to add their own feedback on the buildings shown, so architects and urban planners can use the tool to get input from people about their proposed designs," Professor Billinghurst said.
+
+The app has drawn interest from overseas, including a German city asking if it could be set up there.
+
+- NZ Herald

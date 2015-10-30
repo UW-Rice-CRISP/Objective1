@@ -1,0 +1,61 @@
+By Nick Rawlinson
+
+The 7.3 magnitude earthquake that hit Nepal on May 12, just weeks after the devastating 7.8 magnitude event, should be classed as an aftershock rather than a second earthquake.
+
+Although there are relatively few examples of such big aftershocks in history, the tragic events in Nepal demonstrate that we must always be prepared for them.
+
+The first earthquake that violently shook Kathmandu on April 25 and resulted in more than 8000 deaths was not predicted, but it hardly came as a surprise to seismologists.
+
+Read more:
+
+• The science behind the Nepal earthquake
+
+• Megathrust earthquakes hit NZ twice in past 1000 years - scientists
+
+• Kiwi volunteers talk of terror in Nepal as second quake strike
+
+Nepal is forged by continental collision between the converging India and Eurasia tectonic plates. Earthquakes here are a well-known by-product of the thickening of the Earth's crust that occurs in response to enormous compressive stress at the margins of the two tectonic plates as they are squeezed together.
+
+Like recent large and extremely deadly earthquakes - the Tohoku earthquake in 2011, the Haiti earthquake in 2010 and the Sumatra earthquake in 2004 - the immediate focus was on rescue and humanitarian efforts rather than planning for another devastating earthquake that may or may not happen.
+
+Appalling aftershock
+
+Yet that is exactly what happened; a magnitude 7.3 earthquake struck the border region between Nepal and China on May 12, just 150 km east of the first event. Already, the death toll has risen to nearly 100, and is expected to climb further in the coming days.
+
+Most earthquakes result from rapid relative motion along a fault in the Earth's crust. In general, the larger the earthquake, the larger the rupture area of the fault. For example, the giant 2004 Sumatra earthquake (magnitude 9.2) ruptured over a distance of nearly 1500 km.
+
+In the days and weeks which follow such sizeable earthquakes, a large number of smaller earthquakes, known as aftershocks, occur in the vicinity of the rupture area, as the crust adjusts itself to accommodate the sudden change in structure.
+
+The rate at which aftershocks occur decays over time following the main event, but they can still be recorded months or even years afterwards. In the case of the April 25 event in Nepal, more than 100 aftershocks have already been detected spanning a zone that extends roughly 150 km east of the main epicentre, which is consistent with estimates of the rupture length and direction of the main shock.
+
+May 12's event occurred towards the eastern end of this earthquake sequence - and the fact that it is smaller than the first event means that it clearly fits the definition of an aftershock.
+
+Ostensibly, a magnitude 7.3 earthquake may seem similar in size than a magnitude 7.8 earthquake, but the logarithmic scale used by magnitude estimates actually means that the energy release is many times smaller, which is reflected in the reduced rupture area of the fault (by a factor of 4-5 in this case).
+
+However, size is not the only thing that matters when it comes to the destructive power of earthquakes; the geology of the region, the location of population centres and the robustness of buildings and infrastructure also play a vital role.
+
+Lessons from history
+
+Lessons from history
+
+So how common is it for aftershocks to cause major destruction and casualties on a large scale? It is actually relatively uncommon, although there are notable cases, including the Christchurch earthquake in February 2011.
+
+On this occasion, a magnitude 6.3 earthquake shook the city of Christchurch in New Zealand's south island, causing widespread damage and over 180 deaths.
+
+This event followed the magnitude 7.1 Darfield earthquake of September 2010, which did not directly result in any loss of life. The lack of casualties was due to the quake being centred some 40 km west of Christchurch, which is a less populated area.
+
+It was also due to the earthquake striking in the early hours when most people were asleep. Falling masonary from older buildings would have likely resulted in many deaths had the earthquake struck during the day.
+
+While many regard this earthquake as the main shock and the 2011 earthquake as an aftershock, some seismologists argue that since they appear to have occurred on separate fault systems, they could both be regarded as main shocks.
+
+Either way, the message from New Zealand and Nepal is similar - destructive earthquakes aren't always islolated in time and space - and smaller earthquakes can kill too.
+
+But given that it is well known that big earthquakes tend to have more intense aftershocks, is there any way that we can mitigate against their effects so that we can avoid a repeat of the fatalities seen in Nepal?
+
+Apart from the advice that can be found in many earthquake action plans - avoid buildings with damage that could lead to fire or collapse in an aftershock and use the "drop, cover and hold" method when an aftershock strikes - there is little more that can be done.
+
+Although we know that aftershocks will happen, it is impossible to pinpoint their exact location, magnitude and timing. Our best defence is to ensure that the effected population is educated about earthquake and aftershock hazard, and apply building codes that are properly informed by seismic hazard maps of the region.
+
+This article was originally published on The Conversation.
+
+Read the original article.

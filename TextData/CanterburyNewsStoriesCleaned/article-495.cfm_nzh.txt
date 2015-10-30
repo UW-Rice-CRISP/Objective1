@@ -1,0 +1,57 @@
+Have you heard of the guessing game in Christchurch after each quake and aftershock? People try and guess what strength it was, and where it occurred, and how deep it was. Some earthquake veterans have become frighteningly accurate at this.
+
+More accurate still, though, is an app for tells you exactly where a tremor occurred, and the strength, right there on your iPhone, complete with a map.
+
+While I was at the iDev conference a week ago I got talking to Stephen Baker from Digital Fusion, one of the larger NZ software development companies.
+
+Stephen developed this iPhone app in his own time to keep track of the aftershocks, and he has steadily been improving and adding to it as time has passed. The app comes preloaded with all the quakes in the Canterbury region since the year 2000, so only new shakes get downloaded (for those worrying about data loads).
+
+If you are in the region, your location is shown so you can gauge your proximity to the event.
+
+The Canterbury quakes app is free and universal (it works on all iOS devices).
+
+Another app shows you what areas of Christchurch looked like before so much was lost - especially if you go to Cashel Mall, Cathedral Square or take the Red Zone Public Bus Visit, you will be able to use the application to see what was. CityViewAR is based on the HIT Lab NZ Android AR platform, using GPS and compass sensors in smartphones to enable virtual information to be overlaid on the real world.
+
+The software has previously used for showing individual buildings, but this is the first time that it has been used to show dozens of buildings at once, and the first time in world that augmented reality has been used for earthquake reconstruction.
+
+It's currently available as an Android version.
+
+As with the Canterbury Quakes app above, those not in Christchurch can still view elsewhere - the application as 'fake' GPS data can be sent.
+
+The application was developed at Human Interface Technology Lab at the University of Canterbury and was partially sponsored by Vodafone New Zealand Ltd.
+
+The iPhone version is still being developed. Gun A Lee, a Post Doctoral Fellow at the HIT Lab NZ of the University of Canterbury says "Unfortunately, the ful-fledged version of the app for iPhone is... coming later on (likely early next year). However, we do have a service available on iPhone which shows the same set of information on buildings that are (being) taken down after the earthquake. This service provides similar experience to the CityViewAR app, including the AR view, except the lack of showing 3D models of the buildings."
+
+This service runs through an iPhone app named Junaio, a free augmented reality app with versions for iPhone and for iPad.
+
+Install and launched the Junaio app on your iPhone, search for 'CityViewAR' by typing in on the search box at the top of the main screen of Junaio app and then select the CityViewAR channel from the search results.
+
+Inside Junaio, you can switch between AR, Map and List views through the button on the upper right corner of the screen.
+
+More details about the dedicated iPhone app will be appearing on the HIT website soon.
+
+Rewind successes
+
+Apple does an iTunes Rewind for the year that has just passed, localised for each region. Judging by the results of this years in the NZ iTunes Store, we are part of the territory that includes Australia, which is logical.
+
+In the music categories there's Kimbra for NZ Album of the Year (although the Australians have fairly rightfully adopted her), and Portland based Unknown Mortal Orchestra (ex-Mint Chick Ruban Nielson's band) made Breakthrough Artist. Now that's one album I did buy.
+
+No NZ movies made it in those categories (are any NZ movies sold in our iTunes?) but amongst the top apps I note the excellent NZ-developed 8mm Vintage Camera video app as a runner up.
+
+Meanwhile, in another Christchurch link, the Spore Tools-developed productivity app Idea Store has made it into the US version of Rewind 2011, selected as the best iPhone Productivity app in the US. This is a remarkable success, as you can just imagine how big that market is.
+
+Chris McHarg developed Idea Store himself, through his company Spore Tools. It was released on the App Store in May 2011 and was immediately included in Featured (New) on the App Store in the US and other countries. It has had three updates so far, says Chris, all adding new features.
+
+He also works on a variety of embedded software projects at Spore Tools, including web application.
+
+It's just Chris at Spore Tools, but he's planning on getting some office space at the EPIC IT Hub (Sanctuary) to be built in Christchurch early next year so may be looking for a couple of people to join hims. "I'm hoping to work on some interesting tools based on both iOS and embedded Linux, and of course am hoping to continue to improve Idea Store too."
+
+The NZ$4.19 Idea Store app is a quick way to list ideas and group them, and entries can be exported via iTunes or Dropbox.
+
+
+
+I will follow this post with some Apple-centric Christmas specials for you - so if you have any, please do let me know here.
+
+
+
+- Mark Webster mac-nz.com

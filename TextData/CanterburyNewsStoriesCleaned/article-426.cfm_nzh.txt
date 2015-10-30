@@ -1,0 +1,81 @@
+Rebecca Quilliam is senior reporter at the NZME. News Service office in Wellington.
+
+The Earthquake Commission has apologised to nearly 10,000 claimants in the latest privacy breach blunder by a government department, which saw information about the claimants sent to the wrong person.
+
+Public sector chiefs are all being put on notice by the Privacy Commissioner to ensure measures have been put in place to avoid more breaches.
+
+The information about 9700 claims, including claim numbers and street addresses, was inadvertently sent to a person outside of the EQC this morning (Fri).
+
+EQC chief executive Ian Simpson said the sent information did not include customer names, and most of the information would require knowledge of EQC's internal workings in order to interpret it.
+
+EQC staff contacted the recipient as soon as the breach was identified, and the recipient agreed to destroy all the information, he said.
+
+"I am really disappointed that this breach has occurred. I apologise unreservedly that private customer information was sent to the wrong person.
+
+"I want to assure our customers that every effort will be directed at ensuring this doesn't happen again," Mr Simpson said.
+
+"We will begin contacting affected customers from early next week to advise them of the breach."
+
+Earthquake Recovery Minister Gerry Brownlee was not available for comment.
+
+Privacy Commissioner Marie Shroff said public sector agencies needed to have stronger controls in place when handling spread sheets of personal information.
+
+"The EQC breach is yet another incident involving inadvertent disclosure of large amounts of personal information on a spread sheet. We hope that agencies are starting to realise that they should have stronger controls in place to help to prevent these types of mistakes. But they clearly have a way to go yet."
+
+Ms Shroff said she was considering writing to the State Services Commissioner and all public sector chief executives, asking them to tell her what precautions they have - or are - putting in place to help prevent inadvertent emailing of client information on spread sheets.
+
+Labour Party spokeswoman for Earthquake Recovery, Lianne Dalziel, said the privacy breach was disappointing.
+
+"People do entrust government agencies with information believing that it will be used appropriately and protected appropriately."
+
+She said it was almost identical to the ACC breach, in which private information of nearly 6500 claimants was incorrectly sent to the wrong person.
+
+"One has to question the culture - it's a culture around government and the protection of privacy."
+
+However, she said EQC fronted up, which was positive.
+
+"The first rule of business is the four 'F's - foul up, fess, front up and fix it.
+
+"They've done the first three and I want to know that they going to fix it and they will have completed that circle, and I hope that they do."
+
+Christchurch community group Canterbury Communities' Earthquake Recovery Network (CanCERN) spokeswoman Leanne Curtis said it was unfortunate for the people involved and would cause them stress.
+
+"I think other people will see it as a sign of EQC's ongoing competence."
+
+But she said it was a common error to push send to the wrong recipient.
+
+"I think we need to be a little bit forgiving around that and also. I think EQC has responded very quickly, very transparently, very openly and with a lot of detail."
+
+Ms Curtis hoped EQC would learn that this level of communication would reduce stress amongst earthquake-affected residents.
+
+Mayor Bob Parker would not comment on the privacy breach.
+
+The people affected by the breach were customers in the EQC Canterbury Home Repair Programme whose repairs were yet to begin.
+
+Mr Simpson said EQC would beef up procedures for encrypting and securely accessing sensitive data, as well as tightening rules for using email to send sensitive documents.
+
+"We will commission an independent review of the breach and take steps from that review to ensure this doesn't happen again."
+
+*************
+
+Other privacy breaches include:
+
+* earlier this month a census collector mistakenly handed out an already complete form to another household;
+
+* in January a Hawkes Bay District Health Board worker mistakenly released a patient's confidential medical file to the media;
+
+* a Bay of Plenty District Health Board worker was sacked last December for accessing clinical records of nearly 50 patients and using them for her own purposes;
+
+* a man's criminal record was faxed in error last December to the wrong number;
+
+* blogger Keith Ng, accessed thousands of copies of invoices with personal details on them through Work and Income NZ (Winz) kiosks;
+
+* Auckland District Health Board launched an investigation last October after staff apparently inappropriately accessed clinical records of a patient who arrived at the hospital with an eel inside him and, separately, the possible leaking of information about the eel case to the media;
+
+* ACC sent private information of 6500 claimants to former National Party insider Bronwyn Pullar;
+
+* A Winz staff member wrote clients' private information on a scrap of paper and mistakenly handed it to a member of the public.
+
+* there were 32 privacy breaches at Inland Revenue, involving 6300 people, in the year to October, 2012.
+
+- APNZ

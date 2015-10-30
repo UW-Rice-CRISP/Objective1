@@ -1,0 +1,69 @@
+By Bill Bennett
+
+Christchurch has learned some worthwhile lessons from the quake, mayor Lianne Dalziel tells Bill Bennett.
+
+There's talk in Christchurch about the long-term legacy of the earthquake. What would be the city's equivalent of, say, Napier's Art Deco buildings?
+
+Mayor Lianne Dalziel says people think in terms of assets, but she says she wants to think of a legacy in terms of the city's future, which is why Christchurch is looking at the sensing city project - its contribution to the so-called "internet of things".
+
+A "sensing city" means investing in embedded sensing and data collection points throughout the city as it is rebuilt. She says the council is looking at extending the network beyond the CBD over time so that, among other things: "We can measure in real time the impact of nutrients in the soil out on the Canterbury Plains. Then we can see straight away what happens when it rains. We can track parking spaces and see what effect they have on people coming into town."
+
+The vision is to build a set of open source data that the world can study - it means people will come to Christchurch to test apps, ideas, concepts on a living laboratory.
+
+To get a bigger picture view of the city's future, Dalziel goes back to basics to ask why Christchurch exists. The main reason is its role as the service centre for what she describes as the "extremely productive" Canterbury Plains, with a secondary role servicing the entire South Island.
+
+She says the region is a giant food bowl. This is important, as food and water are the most important international issues at the moment. She says this places the city as the gateway to an area with secure, safe supplies of food and constraints on water. This means it it has the potential to provide the world with answers to some of its most pressing questions. Lincoln University, the University of Canterbury and the local Crown Research Institutes all have parts to play.
+
+The city has a coastline, it is one of five gateways to Antarctica, it is the nearest centre to an important dark sky reserve and there's the rest of the South Island. All of these contribute to what Dalziel sees as the city's potential to become a significant centre of excellence. And she says that means Christchurch has the ability to answer many of the questions facing other cities; not least how to bounce back after a destructive earthquake.
+
+If one word could sum up the first six months of Dalziel's term as mayor, it would be "resilience".
+
+The word comes up a lot when she talks about the city. She says it means Christchurch has much to teach New Zealand and the rest of the world about bouncing back from a disaster and rebuilding a society that can take huge shocks in its stride.
+
+Of all the examples of resilience, the most remarkable is the regional economy. Canterbury's regional GDP barely flickered after the major earthquakes began in September 2010. Dalziel says despite the disaster the economic statistics are "in the realm of normal". The city's port at Lyttelton has been upgraded and tourist numbers have improved.
+
+Though the population has fallen in Christchurch City, Dalziel says the combined population of the three local authorities in the region, Christchurch, Waimakariri and Selwyn has remained stable. "People have simply moved to neighbouring areas, Selwyn is the fastest-growing local authority in the country". That process has been helped by development land being freed up for building.
+
+Dalziel praises the Government's employee subsidy introduced after the quake as one of the best things that happened. This single initiative did much to help get the city's economy back on its feet by helping small businesses keep employees on the payroll through uncertain times. "That will be one of the key lessons we can pass on".
+
+Some organisations were more resilient than others. Dalziel singles out the Canterbury District Health Board, Orion Energy and the University of Canterbury as examples of those who coped well with the disaster.
+
+"They stand out for having pre-existing plans, they each made a relatively seamless transition."
+
+Among the failures she lists the Earthquake Commission and Christchurch City Council - she says it was the latter's performance that prompted her to run for mayor. She says organisations that attempted to move through the earthquakes and the aftermath on a "business as usual" basis struggled to make sense of the way things changed around them.
+
+"There's a need to constantly learn and change, to test new ideas and take them on board. You have to plug in to the natural responses and, where possible, make them work for you", she says. To illustrate this Dalziel points to the shortcomings in the response to flooding in Christchurch earlier this month saying new lessons were learnt: "We can do better next time".
+
+One lesson that rankles with Dalziel and many Christchurch business owners and managers is the way people were locked out of the CBD for weeks after the February 22, 2011 earthquake. Some companies ground to a halt because managers couldn't access important data stored on servers inside condemned buildings.
+
+Dalziel spoke about this with former San Francisco mayor Art Agnos when he visited Christchurch to give a talk at the TEDxEQChCh event in May 2011, shortly after the earthquake. Agnos told her the same criticism applied after an earthquake struck San Francisco in 1989.
+
+Says Dalziel: "Authorities want to keep people out of the buildings because of the risks, but no-one understands risk better than small business owners. We need to trust them to understand the risks and act accordingly. That's why we changed the rules. Now we explain the risks, get people to sign a waiver and make their own decisions".
+
+Another lesson from the earthquakes is that though businesses did a reasonable job of buying insurance cover, they found their policies didn't cover business interruption. She says that's something companies need to plan for in the future - and take legal advice when buying insurance to make sure they are buying exactly what they think they are buying.
+
+Almost all the necessary demolition has now been completed in the city centre. Anchor building projects are only now getting under way. This means the city still has a stark look. There are large areas of bare land including the green frame surrounding most of the CBD.
+
+Dalziel points to developers like Antony Gough. She sees his The Terrace development as a huge vote of confidence in the city centre and says after council hold-ups, the redevelopment is now gearing up although there have been frustrations.
+
+"Capital requires certainty. There's a sense that things aren't joined up.
+
+"Take parking. Investors in the retail precinct need absolute certainty about the location of car parks. We need to know where we are investing our rate-payer's money because we haven't got our insurance settlement yet. This means we have to make decisions before we can sign off. This means we have to look at wider options and go down tracks that perhaps we wouldn't normally choose".
+
+Christchurch City's debt is constrained - Dalziel describes the council as "maxed out". She says by 2017 it will be within 3 per cent of the maximum permissible. More debt isn't an option, but there are options for public private partnerships and what the mayor calls public iwi partnerships drawing on Ngai Tahu resources.
+
+Lessons for businesses
+
+Even the best-laid business plans can fray after a disaster like the Christchurch earthquake. One lesson from the city is that business owners and managers probably won't be able to get back into their business premises for some time after the event. Here's how to minimise the disruption:
+
+ Make sure you have offsite backups of all computer data. It's no longer essential to operate onsite servers anyway
+
+ Enable your people to work from home
+
+ Take legal advice when you buy insurance
+
+ Updates at ccc.govt.nz/bcactionplan
+
+ Newsletter: ccc.govt.nz/goahead
+
+- NZ Herald

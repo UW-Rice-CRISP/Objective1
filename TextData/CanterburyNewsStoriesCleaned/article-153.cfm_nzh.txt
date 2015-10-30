@@ -1,0 +1,55 @@
+By Bill Bennett
+
+A clever collaboration has brought the Enterprise Precinct and Innovation Campus to life, writes Bill Bennett.
+
+SLI sells site search software-as-a-service to the world's major online retailers. CEO Shaun Ryan says his business exists because while most e-commerce sites have search facilities, the experience is often awful for customers who may then choose to buy elsewhere.
+
+To help SLI staff keep the business' main function in mind, a giant wall display shows a live list of the latest shopping queries hitting the company's servers. The company is a significant technology exporter with 97 per cent of revenue coming from overseas.
+
+Ryan says SLI has a development centre in San Jose, but he and around 75 staff are in Christchurch. Christchurch is an interesting town with a lot happening and that makes it relatively easy to recruit and retain staff: "It's position is great, right in the middle of the South Island which is like a huge playground. Among other things we're only an hour's drive from ski fields."
+
+Before February 2011 SLI was based in the BNZ building overlooking Cathedral Square. When the quake hit, Ryan made a video of the dust settling over the square which was used for TV news footage.
+
+The earthquake had little direct impact on business. SLI's customers often don't know the company is New Zealand-based and weren't aware of any problems. Says Ryan: "Our sales people are all located in the markets they are selling to. The New Zealand connection is something they may find out later, or not at all - it's secondary".
+
+It may have been business-as-usual on the outside, but inside things were tricky. There were logistical issues with the servers and buildings. "Our offsite back-ups weren't off site and we had difficult getting them," says Ryan. "The stuff we were serving for our customers was all served from overseas and we managed to jury-rig some systems to get through those first few days and weeks. We had to go into the building with a search and rescue team to get our servers.
+
+"My brother had a factory with some space and I had a flat with some space, then we got some temporary offices for a year and a half or so. It wasn't good, the building was dark and it leaked, but we made it work."
+
+At this point Ryan began talking to Colin Andersen, another Christchurch tech entrepreneur, who was looking to bring a number of tech companies together. Previously Andersen had been involved with another group of tech companies out near the airport. Ryan liked the idea, but wanted any offices to be in town.
+
+"By definition the CBD is central and it works for everyone, it's good for public transport and it's a nice place to work."
+
+Andersen worked with Will McLellan to create the Enterprise Precinct and Innovation Campus or Epic. Getting the Epic Centre off the ground was something of a mission. The low-rise, CBD building houses 18 technology companies. SLI is the largest occupying much of the first floor. It's a temporary building, with a planned life expectancy of just five years, by that time a larger, multi-building campus will be ready.
+
+Ryan says it is a fantastic place to work.
+
+"Anytime there's anyone in town or anything entrepreneurial or technical is happening, the BNZ space down below is the place to be. They hold the coffee jam sessions down there with different speakers each week. The Canterbury Software Cluster holds meetings there. It always has this entrepreneurial buzz."
+
+The building had financial support from Christchurch City Council, the Ministry of Business, Innovation and Employment, and from NZTE. This made it affordable enough to make it practical.
+
+On the outside the building is striking with black timber and neatly laid out paths and flower beds. On the inside the walls are mainly plywood - the look and feel underline its temporary nature. Ryan says it also underscores the nature of the tenants: "None of us are corporate," he says. Ryan thinks it's the best space he has ever worked in. And as for the wood? "That's reassuring for a Cantabrian, because we know it's earthquake resistant."
+
+"Christchurch City Council has given Epic the land that the building stands on for five years. BNZ lent $4 million to build; , with the grants, we'll get to pay off the loan in five years." Ryan says SLI is expanding so quickly that it will have outgrown the space before that happens. "It's a particular problem for fast-growing companies where landlords expect commitments for four or five years, but we have no idea how many people we will employ by then".
+
+SLI
+
+NZX-listed SLI Systems has offices in California and London, but home is in Christchurch's CBD. The company occupies much of the first floor of the two story Epic Centre on the corner of Tuam Street and Manchester Street.
+
+Saved by the Cloud Computer Concepts Ltd
+
+If Canterbury businesses were wary of cloud computing, the February 2011 earthquake soon dispelled their fears. Some companies already committed to cloud computing were back in action within days, others did not fare as well. For weeks after the main earthquake the city centre was closed off with managers and business owners unable to get into offices to retrieve servers and desktop computers.
+
+Christchurch-based Computer Concepts Limited is an IT services company with cloud computing and disaster recovery expertise. Business development manager Greg Urquhart says both got a workout immediately after the earthquake. He says the events of 2011 were a lesson. Since then, local companies have been signing up for cloud services out of necessity: "Today the conversations we have are not about explaining cloud computing, or if it is a good idea, but how it can work best for our customers."
+
+Although the shift to the cloud was under way in 2011, it began in earnest immediately after the big earthquake. CCL CEO Andrew Allan says: "We are deemed to be an essential service. That gave the opportunity to do things others could not, including recovering data. For 18 weeks after the earthquake we were running full time, three shifts a day. We took tapes and other data, then loaded them on to our virtualised servers. It saved hundreds and hundreds of businesses."
+
+Urquhart says there are three reasons Canterbury businesses are drawn to the cloud. First there's the obvious matter of business continuity; data is safer when stored remotely and redundantly in secure data centres. When you use a virtual desktop, everything can be done from a browser, you only need a PC or a phone to get access.
+
+The second reason is that since the earthquake, companies tend to move premises more often, letting someone else look after the servers and data means greater flexibility - that's still at a premium in Christchurch. This comes in to play as the CBD rebuild gets under way. Urquhart doubts many new buildings will be constructed with dedicated server rooms and he says space in the central city is likely to be even more precious in future.
+
+A third reason for the cloud's popularity is financial. "Cashflow is a key issue down here. Cloud computing means there are no lumpy capital expenses, just regular payments," Urquhart says.
+
+"Customers trust us to contain costs.
+
+- NZ Herald

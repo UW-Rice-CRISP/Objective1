@@ -1,0 +1,35 @@
+By Dr Michael Naylor
+
+The proposals in Treasury's newly released review of the Earthquake Commission (EQC) are weak, and do not solve many of the current problems oppressing Christchurch residents.
+
+Suggested changes include dropping contents cover and increasing the EQC sum covered to $200,000. While these reforms are sensible, they are unimaginative and go nowhere near far enough.
+
+Given the multiple problems of the dual insurer model exposed during the Christchurch rebuild, the Treasury needs to be bolder and to rethink the purpose of EQC, including the possibility of focusing on offering reinsurance cover to private insurers.
+
+For insurance companies, the difference between natural disaster insurance and other types of insurance is that natural disasters have a capacity to impact on a high number of insured clients at the same time, causing company bankruptcy. This is normally offset by insurance companies purchasing "excess-of-loss reinsurance", which involves a large worldwide reinsurer agreeing to pay all losses from an event which are above an agreed sum.
+
+In theory there is no reason why the EQC can't be replaced by a law requiring all private insurers to hold this type of cover. In practice there are difficulties. One difficulty is that this reinsurance cover can be expensive to obtain at a reasonable price, which pushes up client premiums. This is why AMI purchased "fixed-sum-reinsurance" instead, and went bankrupt after losses exceeded their capital plus the fixed amount of reinsurance. This difficulty becomes worse for smaller insurers as they have lower client diversity and a higher potential percentage of loss. The area is also quite technical and smaller insurers may lack the skill needed.
+
+Treasury argues that the EQC can provide a small amount of "first insurer"disaster cover cheaper than the private sector can. However the sum they are recommending the EQC cover is only the first $200,000. Given the average New Zealand house rebuild costs vastly exceed that, this still exposes private insurers to losses above that sum. That's why Treasury also requires insurers hold enough capital or reinsurance to survive a one-in-1000-year event. This is very costly, which pushes up premiums and is only secure if actuaries' estimate of the size of the most extreme event holds true. These proposed EQC arrangements do not remove the bankruptcy risk from NZ insurers, or from the NZ taxpayer. They are also very inefficient and costly.
+
+The other issue was the problems created by the EQC being first point of contact for all claims. This proved a disaster during the Christchurch earthquakes because EQC didn't have the systems or staff to cope for at least 18 months. The EQC pre-quake was set up to handle a small number of routine claims but the quake forced them to expand from about 70 staff to over 1800, with a large number needing specific technical skills. Because all claims had to be screened by the EQC, private insurers could not proceed until the scarce EQC staff had screened customers. This meant they could not use their greater capacity until much later. The Treasury report recommends that private insurers act as the first point of contact. Handling a major disaster is easier for private insurers to deal with as they are, in general, large worldwide companies employing thousands of staff.
+
+Under the Treasury recommendations, however, the EQC would still have to deal with thousands of claims and private insurers will have to handle claims which they will not ultimately pay for -- and this will push up premiums. There is really no justification for the EQC to be involved in quakes smaller than disasters, and when large disasters happen the EQC will never be ready, given their small staff size during non-crisis periods. The Treasury proposals still leave us stuck in the quagmire of the two insurer problems and it needs to take a step back and think a bit deeper.
+
+The ultimate objective of providing widespread and low-cost disaster insurance could be better achieved at a cheaper price if the EQC removed itself from customer contact. A superior option could be for the Government to require all private insurers to provide disaster cover as part of house insurance at a fixed price nationally, and then to require those private insurers to arrange adequate excess-of-loss reinsurance.
+
+The EQC would then focus on helping arrange that reinsurance for those insurers unable to arrange it themselves at an attractive cost. The Government's size and sovereign rating would enable it to buy this cheaper than most private insurers. This would also enable the removal of the one-in-1000-year capital requirements.
+
+Private insurers would be able to deal with the routine quake claims at little extra cost to their administration systems. Bare land could be covered via new products created by private insurers but backed by the EQC.
+
+* Dr Michael Naylor is a senior lecturer in finance and insurance with Massey University's School of Economics and Finance.
+
+* Business and civic leaders, organisers, experts in their field and interest groups can contribute opinions. The views expressed here are the writer's personal opinion, and not the newspaper's. Email: editor@hbtoday.co.nz.
+
+* Viewpoints on the Hawke's Bay amalgamation debate can be submitted for consideration and will be used as long as no council resources, money, time or expertise are used in their preparation. This is a requirement of the Local Government Act 2002.
+
+Editor's Note:
+
+Yesterday we incorrectly used an image of Michael Naylor from Naylor Homes on this story. We have now corrected this error. We would like to emphasise that Michael Naylor of Naylor Homes is in no way connected with this story.
+
+- Hawkes Bay Today

@@ -1,0 +1,57 @@
+After the September earthquake in Christchurch last year, Sam Johnson started a 200 member Facebook page to co-ordinate students who wanted to help. within a short time, the page catered to 2500 students cleaning up the liquefaction issues that resulted from that first quake.
+
+Back then, Apple NZ contributed three iPhones to help them communicate; these were gratefully received and worked effectively in managing this earthquake.
+
+I asked Sam why he set up the Student Volunteer Army: "I saw a need and wanted to help. I wasn't personally affected at all. But there didn't seem to be any way to get large numbers of volunteers working with the existing agencies. There was no volunteer coordination, so I set it up, with key helpers."
+
+The team of six around Sam determined to keep the momentum after the first quake, with student-community engagement.
+
+This team comprised Sam plus Gina Scandrett, Chris Duncan, Jade Rutherford, Tom Young and Sam Gifford.
+
+Continuing operations after the September quake proved fortuitous - when the second quake hit, earlier this year, Sam says everything "was ten times the scale of the first".
+
+This group of six extended out to a core team of 12 who ran the February earthquake service, each heading a different department. "In total we had around 75 staff volunteering in the different departments."
+
+Within a short time, the Student Volunteer Army had 7000 to 8000 students out on the streets, totting up 75,000 hours worked alongside Civil Defence, the authorities and relief agencies. The will of students to work at the back-breaking tasks awed people all around New Zealand, and the world.
+
+There were three distinct branches of operations which all aided the people of Christchurch. Firstly the mass deployment of volunteers where up to 1500 people would sweep entire suburbs in a day. Secondly was SVA online, a system in which residents could request help, or offer to help.
+
+A call centre was established to dispatch and assist those without computer access. The system's design grew from assistance from SaaSilia GeoOP, a work allocation system online. Together with the user interface and job allocation system constructed by Jonas Bergler and his team, the GeoOP system proved a massive benefit to the organisation, providing the ability to record jobs, and update them in real time using mobile technology.
+
+Now, with the second Christchurch crisis having wound down a bit, students are back at university (albeit with many attending lectures in the cold, in tents) and with the large amount of non-skilled labour being completed, the SVA is setting up a scholarship scheme and several other initiatives to further engage young people in their communities, and to help where possible with the rebuild of the garden city. "It's about community. Students, just like everyone else, want to be help those people who are hurting. Christchurch will never be the same, and although we have to have our heads down studying now, we'll be back to show Christchurch that the student population is 100% behind them."
+
+There has been significant international interest in the volunteer army project and while the team is working through those options, they're also wanting to thank the volunteers for their service to Christchurch. "We're organising a large thank-you gig, coming up on the 16th of April [in Christchurch]."
+
+He's magnanimous: "I'd like to offer a sincere and heartfelt thank you to the incredible support that we received from the New Zealand Community. Generous donations of equipment, food and funding empowered this project to have the outreach it did. I'm proud to say that this project is not just ours, but a project that all of New Zealand contributed to."
+
+What troubles Sam now is, the SVA is looking for a method to express gratitude to some of the volunteers involved. "Having the resources to give away spot prizes at the concert would be incredible!"
+
+I'd love to say "Come on Mr Jobs, send these hard workers iPods". But I have no influence.
+
+But if you have any ideas, please do contact Sam.
+
+I've said this before, but somehow Canterbury University put out several drafts of students who became the backbone of New Zealand iPhone development. Christchurch's Polar Bear Farm Ltd was the first iPhone developer in the world. PBF is responsible for the apps Air Forms for iPad, Telegram, Record, Note Pad, Search, Nice List, Convert, Face Match (face detection and recognition on iPhone), Tweet Push and Show Time.
+
+(An easy way to support Layton and his developer team is to buy some of these, of course.)
+
+New York-based Carnival Labs originated in Christchurch, and the long established Jade Corporation has set up an iOS development arm. There are many other fine examples of Canterbury ingenuity.
+
+Speaking of Polar Bear Farms, founder Layton Duncan (who also founded Epicentre and Sense Medical) recently posted a hand-held video of the devastation that still exists all around them from the bus. It's on his blog, showing another view of what our Christchurchians are up against.
+
+Especially when you consider that winter is already setting in.
+
+In other Christchurch quake-related news, TelstraClear recently partnered with Kiwi IT company Delta Technology Solutions to offer a free mail protection service until the end of September. The service protects and archives emails while giving secure access to them from any computer, anywhere in the world.
+
+This will work for Mac users, and also PC users - so state-of-the-art virus and spam protection is included.
+
+The Mail Protection Service is free for Christchurch business until 30 September, and there is no obligation to continue with it after that date. Delta Technology Solutions' support and training is also free for the duration of the period.
+
+The TelstraClear and Delta Technology Solutions offer is available to Christchurch-based businesses with infrastructure that has been impacted by the disaster. The solution is ISP independent and there is no requirement or obligation to purchase any TelstraClear services during or after the six month free offer period.
+
+Businesses wanting to ensure that they have continued and secure access to their emails can visit TelstraClear or call 0508 744 744.
+
+As always, I am very keen to hear about anything interesting going on in New Zealand as far as iOS development (or anything else Apple related) goes. Please don't hesitate to tell me. I do appreciate it.
+
+No strings.
+
+- Mark Webster mac-nz.com
