@@ -12,7 +12,7 @@ Things to do to get Newspaper to work (using python 3.5; not sure if this applie
 
 * Follow the Newspaper [install instructions](http://newspaper.readthedocs.org/en/latest/user_guide/install.html).
 * Upgrade beautifulsoup to latest: this fixes an [issue between beautifulsoup and python 3.5](http://stackoverflow.com/questions/28745153/importing-bs4-in-python-3-5).
-* Install pillow 2.9.0. This is somewhat finicky; at minimum may need to [reinstall pillow after Newspaper](http://stackoverflow.com/questions/8915296/python-image-library-fails-with-message-decoder-jpeg-not-available-pil), but the latest version, 3.0.0, [has its own issues](https://github.com/python-pillow/Pillow/issues/1474, at minimum reinstalling pillow might be required to get things to work).
+* Install pillow 2.9.0. This is somewhat finicky; at minimum may need to [reinstall pillow after Newspaper](http://stackoverflow.com/questions/8915296/python-image-library-fails-with-message-decoder-jpeg-not-available-pil), but the latest version, 3.0.0, [has its own issues](https://github.com/python-pillow/Pillow/issues/1474).
 
 Originally tried using [python-goose](https://github.com/grangier/python-goose), but the latest version did a poor job of extracting article text (lots of blank articles).
 
