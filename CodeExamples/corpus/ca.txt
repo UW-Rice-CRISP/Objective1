@@ -1,0 +1,578 @@
+
+ 
+Recommendations. 
+1. Coordination of research activities in the State of California. 
+Earthquakes threaten the entire infrastructure of California. Many federal, state, and academic 
+organizations are thus involved in earthquake research for California.   Private corporations, 
+especially utilities, are also investing significant resources in earthquake mitigation.  The State 
+must encourage cooperation and coordination among these various efforts in order to maximize 
+the return on its investment. First, the Commission should more actively address its mandate to 
+coordinate earthquake research in the State of California.  The Commission should provide an 
+evaluation of the research goals of the relevant state agencies to the Governor and ensure 
+effective coordination among them.  Second, the Commission recommends that the State should 
+direct its support through programs and centers that have proven effective agents for coordinating 
+the efforts of scientists and engineers, helping to focus their research towards practical goals 
+useful to Californias mitigation efforts.   
+2. Research Priorities. 
+The State has already prepared a California Earthquake Loss Reduction Plan (CSSC, 2002) that 
+highlights activities needed to reduce losses from earthquakes. Within these activities, several are 
+recognized as critically important.  These critical areas for State investment are where the Federal 
+effort falls short of the level needed, or areas where the State can leverage a federal program into 
+an activity particularly useful to reducing losses in California, as follows: 
+a. Improve hazard assessments. Improve the understanding of the likelihood, location, and size 
+of future earthquakes, landslides and ground failure. 
+b. Support seismic monitoring. Support earthquake-monitoring networks to improve emergency 
+response and create the data on future earthquakes that are needed to understand seismic 
+hazard and to facilitate critical research programs. The State needs to maintain this support to 
+sustain emergency response as one of the important goals of the system. 
+  i 
+ 
+c. Develop cost-effective mitigation strategies. Improve strategies for ensuring cost-effective 
+loss reduction, including new technologies for earthquake-resistant design, incentives for 
+retrofitting and for higher performance standards for new construction. 
+d. Systematically catalog post-earthquake investigations. Ensure the timely acquisition, 
+analysis, and management of post-earthquake investigations in much more systematic and 
+rigorous ways.   
+e. Understand our social and economic vulnerabilities. Understand the effects of earthquakes 
+on our economy and how best to motivate the citizenry to take personal responsibility for 
+their earthquake safety, including better tools to quantify the financial impacts of earthquakes 
+and the costs of various mitigation measures. 
+f. Encourage new product development. Support research directly focused on creating products 
+that can be used to improve seismic safety such as hybrid materials, wireless technologies, 
+and earthquake response modification devices described later. 
+3. Implement research results into practice. 
+To make a difference in earthquake risk mitigation, the community of owners, operators, 
+regulators, and design professionals that create our buildings and other structures must ultimately 
+adopt relevant findings of seismic research into their policies, codes, practices, and standards. 
+Research program managers should plan projects to increase researcher awareness of industry 
+practices, tailor balanced portfolios of basic and applied research having a range of payoff 
+horizons, and maintain strong outreach components within their programs to ensure that proven 
+research results are implemented in practice.  At the other end of the implementation spectrum, 
+infrastructure owner/operator/regulators need to support innovation and seek paths to put the 
+research into practice. 
+4. Continue to Support Cost-effective Research  
+The activities recommended in this report for the states support will directly contribute to 
+improving the effectiveness of earthquake-mitigation expenditures, and thus contribute to the 
+long-term health of the California economy. Because so much of the Nations earthquake 
+vulnerability is in California, the Federal government expects cost sharing from California on 
+many of its research projects, but this also means that any California investment can leverage 
+significant Federal funds.   
+  ii 
+ 
+Justification 
+Earthquakes present a major financial and safety risk to the future of California, the nations most 
+seismically vulnerable state.  The 1994 Northridge earthquake cost our society $40 billion, yet it 
+was far from the largest possible earthquake disaster.  Moreover, the seismic risk (see insert) is 
+growing  not because earthquakes are 
+occurring more frequently but because the Seismic hazarddescribes the earthquake 
+population and buildings in California, and thus shaking that can be expected over the long 
+term. The hazard depends on the proximity to 
+the people and dollars at risk, are increasing.  A active faults and the size of the earthquakes 
+recent study by the Federal Emergency those faults might generate, and it can be 
+Management Agency suggests that the expected expressed in the form of a seismic hazard 
+annualized earthquake losses just in building map.  In contrast, seismic risk describes the 
+damage in the state of California exceed $3 damage expected over the long term, usually 
+billion per year (FEMA, 1999) and constitute measured as loss of lives or dollars. The risk 
+3/4 of the Nations total risk.  This level of loss depends not only on the seismic hazard but 
+obviously does not happen every year but some also on three additional factors: the regions 
+years will be disastrous; a major earthquake in a exposureto seismic damage (its population, 
+metropolitan area could, like the 1995 Kobe, number of buildings, and infrastructure), the 
+vulnerabilityof its built structures to seismic 
+Japan, earthquake, cost hundreds of billions of shaking, and the resiliency of its commun-
+dollars.  Moreover, the loss of competitiveness ities once damage has occurred.  The seismic 
+and market share for Californias economy hazard levels in Alaska and California are 
+during recovery could itself have serious both high, but Californias risk is much 
+consequences for the State for decades. greater, because of its greater exposure.  
+The losses can be reduced through planning and 
+mitigation and the state has an obligation to do what it can.  The experience of the last few 
+decades has shown that mitigation  modifying our buildings and infrastructure to better 
+withstand earthquakes  pays off in reduced losses when earthquakes do occur.  The goal of 
+earthquake research in California is to determine what mitigation will do the most good.  
+Thus, the state of California should support research that is focused on reducing earthquake 
+losses, thereby creating a safer and more resilient California.  The federal government, through 
+the National Earthquake Hazard Reduction Program (NEHRP), sponsors a combination of basic 
+and applied research on the causes of earthquakes, their distribution, and their damage to the built 
+environment.  The knowledge gained by this research is paying off in the ability to anticipate and 
+reduce earthquake destruction.  However, this information needs to be implemented into effective 
+loss reduction mechanisms by the state government and the private sector through regulatory 
+policies, economic incentives, long-term investments, and public education.  The focus of the 
+State research program should be to leverage the federal investment in earthquake research to 
+meet specific loss reduction goals for California. 
+ 
+A. Coordination. 
+Earthquakes threaten the infrastructure of California and thus most State agencies address the 
+problem in some way.  A few agencies, such as the , have seismic 
+safety as their prime mission.  Several others, such as the Departments of Conservation, and 
+Transportation have a large part of their mission involving earthquakes or earthquake mitigation.  
+Many more agencies, including those regulating all utilities and essential services, such as the 
+Energy Commission, Department of Water Resources, Office of Emergency Services, and Office 
+of Statewide Health Planning and Development, need information about earthquakes to complete 
+their mission.  Each State agency responds to research needs of its specific legislative mandates.  
+  1 
+ 
+The State could make more effective use of its research dollars by coordinating research across 
+agency boundaries. 
+Beyond State agencies, many federal and private entities are involved in earthquake research in 
+California.  The U. S. Geological Survey and the National Science Foundation through grants to 
+State and private universities invest many of the resources of the National Earthquake Hazard 
+Reduction Program in California.  While a major effort that contributes significantly to 
+earthquake risk reduction in California, the goals of this program are set at the national level and 
+federal appropriations have never reached authorized amounts.  Many private corporations, 
+especially utilities, also invest significant resources in earthquake mitigation in California.  By 
+bringing them to the table, the State could leverage its investment in research with the efforts of 
+these other entities and be much more cost effective. 
+Academic consortia that bring together diverse 
+researchers to focus on common goals, such as the Research partnering really works.  For 
+Southern California Earthquake Center (SCEC) and instance, in the NGA Project, PEER, 
+the Pacific Earthquake Engineering Research Center SCEC, and USGS are coordinating 
+(PEER), have proven particularly effective at focusing research dollars of NSF, USGS, 
+academic research efforts towards specific loss FEMA, Caltrans, PG&E and others to 
+develop an improved understanding of 
+reduction activities. Of particular interest to the State how seismic shaking dies off as it 
+are programs fostering cooperation between scientists travels away from the earthquake.  By 
+and engineers in adapting new methods of seismic better predicting where the shaking 
+hazard analysis to the needs of performance-based will be the worst in upcoming 
+engineering.  This type of interdisciplinary earthquakes, we can save dollars and 
+collaboration is critical in establishing a firm technical lives through more effective siting and 
+basis for civic action and strengthening the resolve of construction of new facilities.  
+public officials to improve mitigation strategies.
+Recommendation 1:  The Commission should establish a process to bring together the 
+government and academic researchers and the primary users of seismic research in California to 
+coordinate the various research programs. The goal would to be to enhance the dialog between 
+researchers and research users to focus effort where it is most needed.  Representatives should 
+therefore be those with decision-making authority in their organizations.  Entities that should be 
+included are: 
+Federal 
+U.S. Geological Survey Federal Emergency Management Agency 
+Federal Highway Administration National Science Foundation 
+National Institute of Standards and Technology  
+State 
+California Geological Survey State Lands Commission 
+Department of Water Resources California Energy Commission 
+California Department of Transportation 
+California Office of Emergency Service Division of the State Architect 
+Department of Forestry and Fire Protection Department of Insurance 
+Housing and Community Development Office of Statewide Health Planning and  
+                                Development 
+Academic 
+University of California California State University 
+Southern California Earthquake Center Pacific Earthquake Engineering Center 
+  2 
+ 
+Recommendation 2: The State should encourage research through academic consortia that focus 
+researchers on loss reduction goals, and it should help them leverage federal funding to achieve 
+the priority objectives of the California research plan. 
+ 
+B. Research priorities. 
+Research supported by the State should be clearly connected to the goals set forth in the 
+California Earthquake Loss Reduction Plan.  The Commission believes that the following 
+recommendations will support the specific goals of Californias Earthquake Loss Reduction Plan: 
+to learn from earthquakes, to live with earthquakes, and to build for earthquakes. 
+Recommendation 3: Improve hazard assessments. The first step in developing a cost-effective 
+program to reduce earthquake losses is to understand where earthquake damage is most likely.  
+The big picture of earthquake risk in California is relatively well understood; the State straddles a 
+boundary between major tectonic plates, resulting in a network of faults producing earthquakes at 
+the highest rate in the conterminous United States.  However, the unknown details of this picture 
+ the exact distribution of faults, the times of earthquake occurrences, the patterns of shaking 
+produced by individual earthquakes, and the response of local rock and soils to the shaking, lead 
+to a high level of uncertainty with large financial consequences for California.  
+Therefore, a high priority research objective is to reduce the level of uncertainty in the hazard 
+assessment.  This goal includes: 
+ Develop a better understanding of the physics of earthquakes to permit a more accurate 
+prediction of the consequent ground shaking and potentially the timing of future earthquakes. 
+ Continue investigation of earthquake history of faults to better understand how frequently 
+earthquakes occur, their magnitudes and their relation to earthquakes on nearby faults. 
+ Provide a better understanding of the regional 
+interaction between earthquakes including 
+triggering, both local and distant, and other 
+factors that could affect the timing of 
+earthquakes. 
+ Improve our understanding of the effects of 
+local geology, especially basins and valleys, on 
+the amplitude of ground shaking.  Even though 
+it is widely accepted that large bodies of soft 
+soils amplify ground shaking, the degree of 
+amplification is still debated.  Underestimation 
+Student interns with the Southern Calif-of the amplification can lead to under-design of 
+ornia Earthquake Center map details of structures.  Similarly, overestimation of the 
+the San Andreas fault near Palmdale to amplification, and its damage potential, leads to 
+determine the time of past earthquakes. unnecessary design and construction costs. 
+ Improve our understanding of triggered events 
+landslides, liquefaction and tsunami -- and their risk factors.  In localized areas, liquefaction 
+(where the ground loses its strength and acts like a liquid during the earthquake) and 
+earthquake induced landslides can cause significant damage beyond that caused by the 
+shaking alone. For tsunami, the hazard in California is not well understood.  California has 
+little experience, at least south of Cape Mendocino, with tsunami generated by local 
+earthquakes.  There is evidence in the historic literature that they have occurred.  How do 
+  3 
+ 
+underwater landslides, earthquake-triggered or not, add to the hazard?  Here again, modeling 
+can help, but a better understanding of the frequency and type of fault displacement of 
+earthquakes on under-sea faults is necessary. 
+ Completion of seismic hazard zone maps for all urban areas at risk in California.  At the 
+present time, only about one half of the communities at high risk from earthquakes have been 
+zoned for liquefaction and earthquake-induced 
+landslides.  This leaves significant new 
+construction without the benefits of 
+determining appropriate mitigation against the 
+ground-failure hazards.  In addition, current 
+zones only place a property in or out of the 
+zone without a measure of the severity of the 
+threat.   
+Recommendation 4. Support seismic 
+monitoring.  Beyond knowing where the 
+earthquakes will occur, we need to document and 
+predict how those earthquakes will move the 
+ground.  This is accomplished with seismic 
+monitoring networks that record the fundamental 
+data about the size and timing of earthquakes (the 
+earthquake catalog) and how the ground moved 
+during the earthquake (records of ground shaking). 
+The earthquake catalog is used to determine rates 
+of earthquake occurrence and thus probabilities for Supporting Decision-Makers. 
+future events, as well as to understand the rela-The M7.1 Hector Mine earthquake struck a 
+tionship between geologic structures and the sparsely populated region of southern Califor-
+earthquakes they produce.  The ground shaking nia at 2: 47 a.m. on October 16, 1999. 
+information is used to understand what controls Caltrans procedures for a major event called 
+the level and style of shaking, to predict what for inspections of all roads within a large 
+region surrounding the epicenter.   
+shaking will be produced in future earthquakes Within 5 minutes of the earthquake, the 
+and, thus, how to build buildings to withstand that predecessor to CISN had posted a map on the 
+shaking. Web, showing the distribution of shaking 
+The major seismic networks in California have intensities in the earthquake.  Using this 
+combined to form the California Integrated information, the Caltrans dispatcher was able 
+Seismic Network (CISN).  The CISN is funded by to determine that, because of the events 
+remote location, only a few roads would need 
+many agencies, including the U.S. Geological inspection, thereby saving substantial effort 
+Survey as part of the Advanced National Seismic and tens of thousands of dollars that morning.
+Network, the State through the University of 
+California, the California Geological Survey and the Governors Office of Emergency Services, 
+and by private partners, including the California Institute of Technology, Southern California 
+Edison, and the Pacific Gas and Electric Company.  
+The CISN is critical for the States emergency response.  The CISNs real-time products that 
+provide rapid estimates of areas of strong shaking and probable damage have changed the nature 
+of emergency response, allowing decisions to be made with much more information.  The 
+transformation of what had been solely research networks at academic and research institutions 
+into critical emergency response tools has been accomplished primarily through additional 
+resources from FEMA and OES.  Creating a multi-purpose seismic system that serves both 
+research and emergency response needs is an effective leverage of federal research dollars to 
+  4 
+ 
+fulfill the States needs.  The State needs to maintain this support to keep emergency response as 
+one of the important goals of the system. 
+But the CISN is also a fundamental research tool. We need data on past earthquakes to know 
+what to expect in the future.  The rate at which earthquakes occur, the shaking they produce, and 
+the damage that they do must be measured.  As the state at greatest risk, California is also the 
+state with the most to offer to earthquake mitigation science, through the documentation of our 
+earthquakes and their effects.  The state should move toward real-time measurement of the 
+response of buildings and other structures so that the integrity of the structures can be quickly 
+evaluated.  Measurements of ground motions should continue in order to provide the 
+observational basis for improving prediction of strong ground motions.  This is not only 
+important for structural response, but also for improving estimates of ground failure.  
+Measurements are needed in areas of saturated, soft soils and in mountainous regions to improve 
+models of liquefaction and slope failure triggered by earthquakes. 
+Recommendation 5. Develop cost-effective mitigation strategies. Once we understand where 
+the earthquakes will be and how they will cause the ground to shake, we must address how that 
+shaking will affect our buildings.  California Cost-Effective Mitigation Strategies 
+has building codes and a regulatory One University of California campus has 
+environment capable of achieving a much promoted a close working relation between 
+higher degree of earthquake resistance than earthquake professionals and researchers, 
+was possible in the past.  These advances resulting in cost savings and improved seismic 
+have come about through research on how safety. 
+construction behaves during earthquakes, and For example, redevelopment of an existing 
+how to improve that behavior through building required assessment of its foundation. 
+application of new technologies. We are at a Research on elements of the foundation found 
+time when small research investments still them to be much stronger than current code 
+provisions had predicted.  This enabled the project 
+are reaping a large benefit in terms of to usethe existing foundation, at a net cost 
+earthquake mitigation for new construction.  savings exceeding $600,000 on this project alone. 
+We also must address the problems posed by The results were disseminated to earthquake 
+existing construction built to earlier, less professionals so the cost savings will be 
+rigorous, building codes. The research goals multiplied.  
+to accomplish these objectives include: 
+ Continue and expand research efforts in support 
+More cost-effective mitigation strategies 
+On another university campus, earthquake of performance-based earthquake engineering 
+engineers approached seismic retrofit of an design so that the infrastructure critical to 
+existing hazardous building using new safety, security, and jobs (for example, 
+engineering tools developed through emergency response facilities, bridges critical to 
+California-funded research.  The new economic activity of a region, and high-tech 
+approaches allowed the building to be industrial facilities) is available when it is most 
+retrofit using a scheme that was much less needed following the next big earthquake.   
+architecturally intrusive. It allowed the 
+building to remain fully occupied and  Determine what losses could be expected from 
+functional during retrofit, brought retrofit the likely earthquakes and whether we can 
+construction costs down from an expected afford to risk these losses, or whether it would 
+cost of $5.8M to actual cost of $1.8M, and be cost-effective to raise the standard in the 
+resulted in a building whose seismic per-building codes and require improvements to 
+formance rating was so improved that the older construction.   
+university could use it as part of its post-
+earthquake emergency system.   Because it may not be feasible to mandate 
+higher standards, we should fund research to 
+identify incentives that would encourage owners 
+  5 
+ 
+to design for higher earthquake performance levels.   
+ Determine how to cost-effectively mitigate the risk from existing structures. Identifying 
+existing structures that might pose a seismic hazard is relatively straightforward and can be 
+accomplished with existing technologies.  The problem is that it is often too costly to 
+seismically retrofit the entire infrastructure.  The challenge, then, is to develop techniques for 
+sorting out those structures that pose the highest risk and that can benefit most from seismic 
+retrofit, then direct our mitigation resources to those structures.   
+ Identify cost-effective mitigation strategies for the most hazardous existing construction.  
+Appropriate research can establish the financial and safety aspects of the existing hazardous 
+construction problem, and develop appropriate policy or incentives to address it.  
+Furthermore, research can identify effective technical solutions to mitigate deficiencies in 
+existing construction. 
+Recommendation 6. Encourage new product development. New technologies can help solve 
+many of the problems we face in creating a more 
+earthquake-resistant constructed environment.  The ground 
+will continue to move in future earthquakes but structures 
+can potentially be built to ride out the shaking without 
+damage.  The State should support research directly focused 
+on creating products that can be used to improve seismic 
+safety.  Examples include: 
+ Hybrid Materials. During the past few years, 
+technological advances have emerged that hold great 
+promise to improve the effectiveness and reduce the 
+cost of mitigation.  Opportunities are almost within our 
+grasp for much more widespread use of new hybrid 
+materials that are lighter, cheaper, and more resilient 
+than anything currently available to the engineering 
+community. Their development will make it 
+significantly less expensive to design, construct, or 
+A bridge column test specimen retrofit buildings, bridges, and other structures to resist 
+after it has been cracked by a earthquake motions.   
+simulated earthquake at UC San  Wireless Technologies.  We are making great strides in 
+Diego.  Caltrans funded this information and wireless technologies.  The installation 
+research. 
+of wireless networks of sensors in buildings Search and rescue opportunity. 
+and structures that can transmit real-time People trapped inside collapsed buildings 
+information on performance to transportation have a good chance of survival if rescued 
+and highway officials, emergency responders, promptly; a chance that rapidly diminishes 
+and researchers would improve our response quickly as hours pass.  The rescue workers 
+capabilities in each of these areas dramatically.  know this, but the scarcity of effective tools 
+Research is needed to place these sensors in the and equipment greatly limit what they can do 
+highest risk urban areas and to determine how without adding to the injuries of those 
+trapped.  Using cutting torches and other 
+to interpret the information to evaluate the small hand and power tools to remove 
+response of our built environment to building components, essentially piece by 
+earthquakes.    piece, they undertake a process resembling 
+ Response Modification Devices. Not only are fighting a fire with a bucket brigade.  
+we looking to the development of new A similar problem in freeing people from 
+wrecked automobiles led to the development 
+of the jaws of life.  Effective earthquake 
+rescue needs jaws, too. 
+  6 
+ 
+materials and technologies, but new design tools are also on the horizon. Researchers are 
+focusing on the development of a range of response modification devices designed to 
+dissipate the shaking from the earthquake in non-destructive ways. These new tools offer an 
+economic means to protect historic structures, and maintain functionality of hospitals and 
+other critical facilities in the immediate aftermath of an earthquake. These smart buildings, 
+designed with sensors, energy dissipating and isolating devices and hybrid materials are at the 
+cutting edge of advances in earthquake engineering and hold great promise to reduce future 
+losses in our State. 
+Recommendation 7. Conduct post-earthquake investigations. Once the earthquake occurs, 
+many types of ephemeral data need to be collected, to improve future research efforts.  This 
+information captures the lessons that emerge from earthquakes and is crucial to improving 
+understanding of how to reduce earthquake losses.  Post earthquake data collection includes 
+documenting:  
+ The impact of earthquakes on the ground on which buildings, bridges, ports and harbors are 
+built, to understand how ground shaking and ground failures affect those structures; 
+ The response of buildings, bridges, lifelines and other structures, to compare their actual 
+performance to laboratory simulations and design expectations; 
+ The performance of the built environment under actual earthquake forces, so new structures 
+of all kinds can be better designed and 
+existing structures more effectively 
+strengthened to resist damage in future 
+earthquakes and other extreme events; 
+ Economic damages and losses to 
+government, businesses, and families, to 
+improve predictive risk and loss models 
+ The performance of the emergency 
+response system, to understand how it 
+reacted, and how it can be improved to 
+make communities more disaster resistant; 
+and 
+ The number of deaths and injuries and their The Acorn building in Paso Robles collapsed in 
+causes, the number and types of people the December 22, 2003 San Simeon earthquake, 
+who require shelter and housing, to help killing two people.  The building was torn down 
+communities better prepare for future within weeks so data for an engineering analysis 
+disasters of all types. of why it collapsed had to be collected quickly. 
+This information enables engineers to improve the design and construction of new structures and 
+to strengthen existing structures to withstand future events; such information has been a primary 
+basis for improvements in building codes, making California a much safer place to live.  It helps 
+emergency responders and recovery managers develop more effective plans, and it enables 
+communities and the State of California to plan for and reduce the social and economic impacts 
+that earthquakes cause.  
+All of this information is critical to reducing future losses in California, but unfortunately some of 
+these data are highly perishable and can disappear in the first few hours or days after an 
+earthquake.  As communities attempt to recover, damaged buildings and bridges are quickly 
+removed or repaired.  Even adverse weather can wash away important geotechnical evidence of 
+damage to ports and harbors before researchers can study the extent of ground failure or 
+  7 
+ 
+liquefaction.  On the other hand, data on societal and economic impacts must be collected in a 
+coordinated manner over a period of months or even years in order for researchers to fully 
+understand how different social, ethnic, and 
+economic communities were affected.  It is 
+important that a coordinated, multi-phased 
+data collection effort be mounted after every 
+significant earthquake.  
+Many agencies and organizations are 
+involved in this activity including the U.S. 
+Geological Survey, the California 
+Geological Survey (for geoscience data) and 
+the Earthquake Engineering Research 
+Institute (for engineering construction and 
+design, lifeline, and social and policy data). 
+The State should support the existing groups 
+that undertake post-earthquake data 
+Opportunity lost. Researchers from many agencies collection in California. A fund for this 
+collected detailed data on household damages and purpose has been set up, one that holds 
+losses from the 1994 Northridge earthquake immed-unspent funds over fiscal year boundaries 
+iately after the event.  Unfortunately, the lack of (Section 8690.45 Government Code). Rules 
+systematic data collection and storage, concerns should be established for use and 
+about privacy, and insurance regulations reduced replenishment of the fund.  The State should 
+access to and use of these data by researchers who make a commitment to keep the fund at a 
+are trying to understand the full range of impacts of certain level.  Use of the fund should be 
+the earthquake to help reduce future losses. coordinated through one State agency.  The 
+Commission, responsible for coordination of 
+research, would be the natural agency to coordinate the funding of post-earthquake investigations.  
+Administration of the fund would have to include having instruments in place so that funding can 
+be provided rapidly following earthquakes to qualified investigators. 
+Recommendation 8. Understand our social 
+and economic vulnerabilities. To actually 
+reduce losses, the results of the research on 
+hazard and building response must be 
+incorporated into land use planning and other 
+public policy.  The cost-effective application 
+requires a detailed understanding of our 
+economic vulnerability as well as means to 
+motivate our citizenry to undertake personal 
+responsibility for their earthquake safety.  
+An important tool to accomplish this is 
+software to estimate losses from known 
+geologic and engineering factors.  The State 
+should support the development of an open and Damage to the Turley Wine Cellars in the 
+more robust loss estimation capability. Both December 22, 2003 San Simeon earthquake. 
+the methodology and the inventory must be 
+improved in order to provide more realistic estimates of future losses and to assist in determining 
+cost-effective mitigation measures.  The methodology must be publicly developed and main-
+tained, so that new research can be readily and easily incorporated into model improvements.  
+  8 
+ 
+This will help evaluate the cost-effectiveness of mitigation, provide validation for proprietary 
+models used for earthquake insurance, and improve emergency response planning. 
+Other social and public factors that affect earthquake policy also must be understood, including: 
+ How to make better use of the roles of regulatory agencies and the insurance and lending 
+industries in promoting improved seismic performance? 
+ Which existing California laws and programs inadvertently work against improved seismic 
+performance? 
+  How does the cost of tax incentives and other creative lending or financing programs 
+compare to the financial cost that will be incurred by the State and Federal treasuries, if no 
+action is taken? 
+ What new or more effective programs could enable individuals, small business owners, major 
+corporations, as well as government agencies, to take the steps necessary to create a safer 
+society? 
+ 
+C. Implementation of Research Results. 
+To have a real impact on earthquake risk mitigation, the community of owners, operators, 
+regulators, and design professionals must ultimately adopt relevant findings of earthquake 
+research into their policies, codes, 
+practices, and standards.  Unfortunately, The Interdependent Roles of Government and 
+it is widely recognized that far too Industry in Implementing Seismic Research 
+much valuable research does not find its  
+way into practice in a timely and 
+efficient manner.  The consequences are 
+missed opportunities to reduce life and 
+property losses for the State of 
+California.  
+The process of research implementation 
+can be viewed as an interactive process 
+with three foci: 1) basic research, 2) 
+applied research, and 3) industry 
+adoption.  Basic research is typically 
+conducted by specialized researchers 
+working in academic or government  
+laboratories.  At the other end of the 
+process are architects and engineers who design earthquake-resistant structures, the owners who 
+hire them and the regulators who oversee the process. The role of applied research is to span the 
+gap between these two groups by selecting and converting basic research discoveries into design 
+tools and policies that can be used.  Applied research supplies a critically important, and often 
+overlooked, component to the implementation process by developing tools so stakeholder 
+communities can apply the new results in a practical setting.  
+Recommendation 9. Support research implementation activities.  Managers of basic research 
+programs must work to coordinate their efforts where they can lead toward useful products.  It is 
+important to note here that the very nature of basic research is the high-risk process of discovery, 
+and not all basic research can or should be focused toward short-term implementation goals.   
+  9 
+ 
+However, program managers interested 
+in reducing seismic risk should make 
+researchers aware of industry practices, 
+tailor balanced portfolios of basic RiRisksk
+research having a range of payoff lelevevell
+horizons, and ensure strong outreach 
+components within their programs.  At 
+the other end of the implementation 
+spectrum, infrastructure owner/oper-
+ator/regulators need to adopt a 
+proactive posture that supports No enNo enttrryy
+Informed an andd  
+innovation and seeks paths for rapid compensate  ordinary wo workers s 
+implementation.  Finally, the critical workers o only and and occupants
+role of user-focused applied research 
+must be better recognized and time a after  earthquake
+ 
+supported in order to assure that Research collaboration between seismologists, 
+research advances that have immediate engineers, and industry has demonstrated benefits.  In 
+uses can be more rapidly adapted to this example, research scientists and engineers helped 
+practice. State-of-the-art project California utilities develop a post-earthquake building 
+management methodologies and tagging system that recognized the reduced risk of 
+techniques should be applied where aftershocks with time after an earthquake 
+appropriate in order to produce timely 
+deliverables of research products. 
+ 
+D. Continue to Support Cost-effective Research 
+The State of California and its citizens and businesses invest large sums in capital construction 
+every year.  The Construction Industry Research Bureau estimated that $64 billion was spent on 
+total construction activity in 2002.  At least $3 billion was spent on activities to reduce future 
+earthquake losses.  California must make sure that this investment in earthquake mitigation is 
+used effectively.   
+Seismic research is critical to achieving this goal.  Past research has uncovered important 
+information on the seismic hazard and how to build more safely, helping California avoid 
+disasters that occur in other parts of the world even in moderate earthquakes.  Research has 
+provided information technologies such as ShakeMap, which in the 2003 San Simeon earthquake 
+facilitated emergency response and business recovery.  These and other past investments in 
+research have led to reduced losses and greater resiliency in California today.  But the work is not 
+finished.  We need to continue this investment by the State to make the State more resilient and to 
+leverage the significant Federal investment in earthquake research in California.  If California is 
+seen as not contributing its share, the Federal and private sector investments in research could 
+decrease. 
+To be most effective for the State of California, the research should be directed toward the most 
+critical seismic issues facing the State.  To ensure that this happens, it should be: 
+Planned. The research should be well-planned, directed at clear and specific goals and with a 
+well-defined purpose in the overall research plan.  Even though serendipity always plays a 
+role in the best science, planning is essential. 
+  10 
+ 
+Coordinated.  Much of the earthquake research in the United States takes place in California and 
+the States support should complement and leverage, not duplicate, the federal research 
+efforts. 
+Educational. Experience gained during NEHRP demonstrates that a consensus to invest in risk 
+reduction is best achieved through an active collaboration among scientists, engineers, 
+government officials, and business leaders, working with an informed populace.  A corollary 
+is that earthquake research will contribute most to risk reduction when it is carried out in a 
+context that educates potential users of the technology. 
+Extensible.  Earthquakes are not the only hazard facing California and the best efforts will make 
+use of the results in other fields and be of use in multi-hazard risk reduction.  For instance, 
+application of earthquake-resistant engineering design principles can help protect structures 
+from collapse in a terrorist bombing. 
+ 
+The history of earthquake research in California has shown that the investment in research is 
+more than paid back in losses that do not happen in the next earthquake.  The State needs to 
+continue its investment so that the billions of dollars it spends each year in earthquake mitigation 
+is spent effectively. 
+  11 
